@@ -1,0 +1,28 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-03-27 18:20 IST
+Nmap scan report for ayushya-hp-probook-440-g2 (192.168.1.5)
+Host is up (0.00030s latency).
+All 100 scanned ports on ayushya-hp-probook-440-g2 (192.168.1.5) are closed
+
+Nmap scan report for www.google.com (172.217.26.164)
+Host is up (0.011s latency).
+Other addresses for www.google.com (not scanned): 2404:6800:4007:801::2004
+rDNS record for 172.217.26.164: 164.26.217.172.in-addr.arpa
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 5.19 seconds
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-03-27 18:21 IST
+Nmap scan report for www.google.com (172.217.26.164)
+Host is up (0.013s latency).
+Other addresses for www.google.com (not scanned): 2404:6800:4007:801::2004
+rDNS record for 172.217.26.164: 164.26.217.172.in-addr.arpa
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 2 IP addresses (1 host up) scanned in 3.05 seconds
